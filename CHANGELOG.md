@@ -7,6 +7,7 @@
 
 ### Changed
 - AUTH-9230 - skip SHA_CRYPT rounds check when ENCRYPT_METHOD is YESCRYPT
+- PKGS-7320 - Support arch-audit on Arch Linux derivatives and pacman-based systems
 - PKGS-7370 - Strip quotes from CRON_CHECK in debsums test
 - Adjusted end-of-life entries in database: FreeBSD, OpenBSD
 - Fix for empty machine ID detection
